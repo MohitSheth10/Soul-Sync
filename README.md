@@ -11,7 +11,7 @@ An AI-powered emotional support robot that detects your emotions through webcam-
 - 🖼️ Tkinter GUI for capturing face images and displaying the conversation
 - 🔁 Automatically updates and saves new face data
 - 📁 Stores face images locally for easy management
-
+- 🖼️ The Full Body is 3D Printed and designed.
 ## How it works
 
 1. The webcam captures the user's face and matches it against stored face encodings, or registers a new user if unrecognized.
@@ -24,7 +24,8 @@ An AI-powered emotional support robot that detects your emotions through webcam-
 
 ## 🤖 World Robot Olympiad (WRO)
 
-<img width="640" height="853" alt="Soul Sync" src="https://github.com/user-attachments/assets/4ee57a0f-ce06-41e8-9885-7c03b5b3c721" />
+<img width="360" height="480" alt="WhatsApp Image 2026-08-07 at 11 14 55 AM" src="https://github.com/user-attachments/assets/2f7c8fe5-b3fc-4dde-a5d4-943267378b97" />
+
 
 This started as my WRO project. After the competition, the organizers invited me back to join the event coordination team. I worked with fellow team members to organize and run the event, and collaborated with judges to evaluate 42 of the participating teams, helping troubleshoot issues for participants along the way.
 

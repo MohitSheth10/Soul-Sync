@@ -31,7 +31,8 @@ else:
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 recognizer = sr.Recognizer()
 mic = sr.Microphone()
-co = cohere.Client("M66iWrfF8fpc6sz5Yl5k3IYyiBiF8BQ6f40RLmwp")
+co = cohere.Client(os.environ.get("COHERE_API_KEY"))
+
 
 # === DATABASE ===
 conn = sqlite3.connect("therapist_bot.db")

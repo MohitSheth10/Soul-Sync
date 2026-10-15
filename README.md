@@ -58,7 +58,7 @@ Python, OpenCV (face recognition), Keras (emotion detection), Cohere (conversati
 
 ## 🤖 World Robot Olympiad (WRO) involvement
 
-<img width="360" height="480" alt="Mohit at the World Robot Olympiad" src="https://github.com/user-attachments/assets/2f7c8fe5-b3fc-4dde-a5d4-943267378b97" />
+<img width="360" height="480" alt="The Soul Sync robot, with its screen showing the Soul Sync interface" src="https://github.com/user-attachments/assets/2f7c8fe5-b3fc-4dde-a5d4-943267378b97" />
 
 This started as my WRO project. After the competition, the organizers invited me back to join the event coordination team. I worked with fellow team members to organize and run the event, and collaborated with judges to evaluate 42 of the participating teams, helping troubleshoot issues for participants along the way.
 

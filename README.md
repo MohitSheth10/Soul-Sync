@@ -1,5 +1,9 @@
 # Soul Sync: an Emotion Counselor Robot
 
+**A robot that reads your face and responds like a counselor, built for WRO Future Innovators.**
+
+More by Mohit: [AURA Humanoid](https://github.com/MohitSheth10/Humanoid-Bot) · [Rail-Guard](https://github.com/MohitSheth10/Rail-Guard) · [Quorum](https://github.com/MohitSheth10/Quorum) · [All projects](https://github.com/MohitSheth10?tab=repositories)
+
 A robot that recognizes who you are, reads how you're feeling from your face, and holds a supportive conversation shaped by your emotion, what you say, and what you've said before. Built for the World Robot Olympiad (Future Innovators), where it won **silver in the online round** and **bronze at regionals**. It's aimed at teens and young adults, where depression rates have been rising.
 
 ## 👥 Team
